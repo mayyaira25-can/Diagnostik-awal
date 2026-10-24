@@ -1,0 +1,6 @@
+{
+  "name": "Cek Bekal Kimia - Diagnostik Laju Reaksi & Dashboard Guru",
+  "description": "Aplikasi tes diagnostik awal materi prasyarat laju reaksi kimia dengan pemetaan kesiapan siswa real-time, analisis miskonsepsi per indikator, dan rekomendasi diferensiasi pembelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
